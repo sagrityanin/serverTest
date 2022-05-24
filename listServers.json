@@ -1,0 +1,39 @@
+{ "Items":
+[
+  {"name" : "Atlas",
+    "ip": "192.168.13.208",
+    "port": 3389
+     },
+
+  {
+    "name": "officeDomru",
+    "ip": "ftp.dynfor.ru",
+    "port": 22
+  },
+{
+    "name": "Timeweb",
+    "ip": "pbro.ru",
+    "port": 80,
+    "url": "http://pbro.ru"
+  },
+{
+    "name": "Backup",
+    "ip": "192.168.13.225",
+    "port": 22
+  },
+{
+    "name": "FileServer",
+    "ip": "192.168.13.5",
+    "port": 445
+  },
+{
+    "name": "1C",
+    "ip": "192.168.13.6",
+    "port": 3389
+  },
+{
+    "name": "LocalArm",
+    "ip": "192.168.1.198",
+    "port": 22
+  }]
+}
